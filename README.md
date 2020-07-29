@@ -5,8 +5,8 @@ Users can post messages on chalkboard and then other users are able to react to 
 # Getting Started
 
 ## Installation
-$ git clone;
-$ npm install;
+$ git clone
+$ npm install
 $ npm start
 
 # Demo
