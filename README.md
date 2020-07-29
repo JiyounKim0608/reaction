@@ -9,4 +9,4 @@ $ git clone $ npm install $ npm start
 
 # Demo
 
-![alt reaction](
+![alt reaction](https://github.com/JiyounKim0608/reaction/blob/master/reaction2.gif)
