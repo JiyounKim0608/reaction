@@ -6,3 +6,7 @@ Users can post messages on chalkboard and then other users are able to react to 
 
 ## Installation
 $ git clone $ npm install $ npm start
+
+# Demo
+
+![alt reaction](
